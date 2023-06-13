@@ -1,0 +1,8 @@
+{
+  "name": "my-first-ionic-vue3-with-tabs-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite",
+  "id": "4ddf3849"
+}
